@@ -1,17 +1,12 @@
 # currency-converter-in-java
 
 
-Currency converter (or currency exchange) is a mini project coded in Java programming language. This simple application provides a web-based interface for exchanging/converting money from one currency (say $) to another currency (say €).
+The Currency Converter is a mini-project developed using the Java programming language, offering a web-based interface for converting money from one currency (e.g., USD) to another (e.g., EUR). This lightweight application is particularly helpful for users who need real-time currency exchange functionalities.
 
-The complete source code of currency exchange application can be downloaded from the link below. As this is just a mini project, project report and documentation are not available. You can go through the description below for project abstract.
+While the complete source code for this project is available for download, please note that detailed documentation or a project report is not provided. However, the abstract below outlines the key features and functionality of the application.
 
-Currency Converter Project Abstract:
-Different countries use different currency, and there is daily variation in these currencies relative to one another. Those who transfer money from one country to another (one currency to another) must be updated with the latest currency exchange rates in the market.
+In today’s global economy, different countries use different currencies, and exchange rates fluctuate daily. Individuals and businesses involved in international money transfers must stay updated with the latest market exchange rates.
 
-Currency converter mini project is built keeping this thing in mind. It is simply a calculator-like app developed using Ajax, Java servlets web features. In this application, there is regular update about currency of every country by which it displays present currency market value and conversion rate.
+This project addresses that need by functioning as a basic calculator that updates regularly with the latest exchange rates using Ajax and Java Servlets. It provides users with current currency values and conversion rates, making it a useful tool for sectors like business, finance, and international trade.
 
-Such application can be used by any user, but it is mainly useful for business, shares, and finance related areas where money transfer and currency exchange takes place on a daily basis.
-
-In this currency converter app, users are provided with an option to select the type of conversion, i.e. from “this” currency to “that” currency. This simple feature allows users to enter amount to be converted (say currency in Dollars), and display the converted amount (say currency in Euro).
-
-
+The application allows users to select the source and target currencies and input the amount to be converted. Upon selection, it displays the equivalent value in the target currency, helping users perform quick and accurate currency conversions.
