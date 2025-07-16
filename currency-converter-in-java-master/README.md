@@ -16,8 +16,4 @@ In this currency converter app, users are provided with an option to select the 
 
 
 
-visit more projects - https://projectworlds.in
-
-demo- https://www.projectworlds.in/java-projects-with-source-code/currency-converter-java-mini-project/
-
 
